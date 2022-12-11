@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FormaturaAtual</string>
+    <string name="text_name">Lucas de Jesus</string>
+    <string name="texto">textotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotextotexto</string>
+    <string name="text_title_home">Que bom que você está aqui!</string>
+    <string name="text_card_activity_home">Formandos - CE Atual, 2022</string>
+    <string name="text_btn_message">Mande uma mensagem</string>
+    <string name="text_activity_main">Formandos - Dez. 2022</string>
+    <string name="btn_voltar">Voltar</string>
+    <string name="btn_send">Enviar agora</string>
+    <string name="frase_spalsh">Um dia aprendi que sonhos existem para tornar-se realidade.</string>
+    <string name="autor_frase_splash">Walt Disney</string>
+</resources>

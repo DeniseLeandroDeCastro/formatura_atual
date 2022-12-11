@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/allana_kayenne</item>
+        <item>@drawable/allana_tomaz</item>
+        <item>@drawable/ana_livia</item>
+        <item>@drawable/ana_luiza</item>
+        <item>@drawable/ana_vitoria</item>
+        <item>@drawable/antonio_gabriel</item>
+        <item>@drawable/augusto</item>
+        <item>@drawable/brenda</item>
+        <item>@drawable/carlos_vinicius</item>
+        <item>@drawable/flavia_leticia</item>
+        <item>@drawable/larissa</item>
+        <item>@drawable/lucas_de_jesus</item>
+        <item>@drawable/paulo_gustavo</item>
+        <item>@drawable/sabrina_faustino</item>
+        <item>@drawable/thalyta_marry</item>
+        <item>@drawable/ulisses_gabriel</item>
+        <item>@drawable/yasmin</item>
+    </array>
+
+    <string-array name="names">
+        <item>Allana Kayenne</item>
+        <item>Allana Tomaz</item>
+        <item>Ana Livia</item>
+        <item>Ana Luiza</item>
+        <item>Ana Vitoria</item>
+        <item>Antonio Gabriel</item>
+        <item>Augusto Eric</item>
+        <item>Brenda Lais</item>
+        <item>Carlos Vinicius</item>
+        <item>Flávia Leticia</item>
+        <item>Larissa Nascimento</item>
+        <item>Lucas de Jesus</item>
+        <item>Paulo Gustavo</item>
+        <item>Sabrina Faustino</item>
+        <item>Thalyta Marry</item>
+        <item>Ulisses Gabriel</item>
+        <item>Yasmin Ellen</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Tudo o que está vivendo agora, minha filha, é fruto de todo o esforço, talento, dedicação empregada neste sonho. Hoje é só o início de uma longa história de sucesso. Você é nosso orgulho! Acompanhamos a sua luta de perto até a chegada desse grande momento e hoje te ver aqui  é um presente para nós.O tão sonhado dia da formatura chegou! Deus sustentou os teus passos até aqui, e agora tenho certeza que te cobrirá de bençãos e vitórias. Te amamos filha!</item>
+        <item>Allana, seu nome carrega um significado forte: bela! Você trouxe beleza para nossas vidas, um sentimento de que podemos superar as dificuldades e de que a vida é bela. Sua determinação e força de vontade são expressões de seu caráter uma menina que sabe ser doce e amorosa, mas que também é forte e determinada e provou isso vencendo mais uma etapa de sua vida estudantil e porque não dizer de sua vida pessoal, estamos felizes e orgulhosos de ter o privilégio de participar desse momento, que é apenas mais uma etapa de sua vida, nós a amamos muito e sempre estaremos ao seu lado nas batalhas de sua vida.</item>
+        <item>Logo no primeiro dia em que segurei você nos meus braços, senti que muitas alegrias estavam prestes a chegar. Ver você crescer, ser uma menina exemplar e inteligente me dá muito orgulho. Sou uma mãe privilegiada por ter trazido ao mundo alguém assim. Acredite que o amor que sentimos por você não tem limites e que sempre estaremos aqui pra te apoiar, aconteça o que acontecer. Minha Aninha, minha preciosidade, tenho certeza que as alegrias não vão parar por aqui. Parabéns pela conclusão dessa linda etapa da sua vida. Te Amamos!</item>
+        <item>Filha, nos faltam palavras para te descrever, você é nosso orgulho, além de ser muito inteligente, determinada e dedicada. Que essa nova etapa que está por vir seja repleta de conquistas. Nós te amamos muito!</item>
+        <item>Amei te sentir desde que soube que você era uma sementinha dentro de mim, então venho te planejando desde daquele momento, planejando para que você tenha grandeza de carácter, princípios e guarde os ensinamentos dados pela família pois existiram momentos em que você vai precisar deles... quero te dizer q a adolescência é  uma fase chata e linda ao mesmo tempo e que ainda demora um pouquinho a passar porém estarei sempre aqui para lhe acolher em suas dores e alegrias. Sou GRATA À DEUS  por sua existência em minha vida, em fim obrigada pela filha, amiga e pessoa que você é. Eu e toda sua família te amamos!!!!</item>
+        <item>Um filho, neto e sobrinho muito amado. Antônio Gabriel um menino que a cada dia nos dá mais orgulho.Estamos muito felizes por mais essa conquista na sua vida e temos certeza que será só mais um, sabemos que com seu jeito dedicado e focado você vai alcançar todos os seus objetivos ficaremos aqui torcendo e orando a Deus pra que cuide de tudo o que for melhor na sua vida. Te amamos meu filho.</item>
+        <item>Finalmente chegou o tão esperado dia! Com seu talento, sua força e seu esforço, tudo sendo recompensado com seu diploma. Parabéns filho, Augusto Eric!</item>
+        <item>Que bom vêr que você está crescendo, estou tentando dar o melhor para contribuir com sua educação e construir para você um futuro melhor. Às vezes tenho que ser rígida eu sei, mas o mundo não é tão cor de rosa como parece se nós nos dermos as mãos e misturar-mos as cores faremos com ele se torne mais bonito...quando precisar saiba que estou aqui, estou aprendendo com você a lhe acolher em meu coração! Te amamos, bjs!!!</item>
+        <item>Querido filho, que alegria te ver encerrando mais um ciclo da sua vida, e te ver apto para entrar em uma nova fase. É gratificante te ver crescendo com educação, respeito, e sabedoria, e lembrar que todos os valores ensinados ao longo da sua jornada estão te moldando como pessoa. Nenhuma declaração pode externar o quanto estou orgulhosa da sua trajetória até aqui. Mas quero que saiba que você me proporciona emoções e felicidades que guardo genuinamente em meu coração. Que Deus o abençoe e lhe dê discernimento para que construa sua caminhada com muita luz. Te amo muito, infinitamente, e estarei sempre ao seu lado!</item>
+        <item>Minha filha, nossos corações transbordam de orgulho e felicidade neste dia que felicitamos sua formatura. Tudo que está vivenciando agora é fruto de toda sua dedicação, esforço e talento que você empregou durante todo o ano. Essa é só mais uma etapa de uma longa história de sucessos que você tem pela frente. Estamos orgulhosos não só pela formatura, mas pela menina extraordinária e sonhadora que você é. Deus esteve sempre presente em todos os seus passos e certeza que ele cobrirá todas as suas novas bençãos, que nesse seu novo ciclo que irá se iniciar, ele seja repleto de alegrias e vitórias. Você merece todo o sucesso do mundo; Parabéns, filha! Nós te amamos.</item>
+        <item>Aguardando a mensagem</item>
+        <item>Lucas, também conhecido por Jesus... Desde o seu nascimento, pude perceber o quanto você é forte! Atrás do menino alto e magro e aparentemente frágil, esconde-se uma pessoa que surpreende pela força, capacidade de superação, pelo amor às pessoas. A sua formatura do 9º ano, é apenas a primeira etapa de sucesso que você terá pela frente. Em breve, outras formações virão e com elas, também virão as realizações de vários sonhos. Parabéns, meu filho, tenho um orgulho enorme de você!!  Te amo hoje mais do que ontem e menos que amanhã!</item>
+        <item>A você Paulo Gustavo (mexicano): Que satisfação... Que honra partilhar esse momento! Não me arrependo um só segundo por tê-lo em minha vida, é um prazer cuidar e amar você. Um adolescente, porém pra mim um meninão de caráter bondoso. Peço a Deus continuamente que o conserve assim. Louvo a Ele por sua existência, meu filho amado, vida da minha vida. Almejamos um futuro maravilhoso, destino brilhante, um porvir equilibrado e de paz. Nossa existência são etapas, hoje uma está sendo concluída, aproveite e divirta-se. NÓS TE AMAMOS!</item>
+        <item>Sabrina é uma menina muito forte e por conta disso é mais introspectiva, mas com os amigos se transforma e é nessa hora que podemos ver o sorriso lindo que ela tem, rezo pra que ela use essa força pra lutar pelos seus sonhos e conseguir realizá-los estarei sempre aqui pra ajudar, te amo muito filha tenho muito orgulho de você.</item>
+        <item>Todo dia você me ensina um pouco mais sobre a vida, e acima de tudo sobre a felicidade. Ver você crescer, aprender a se tornar uma pessoa cada vez mais determinada e corajosa me enche de orgulho. A maior alegria da minha vida foi ter estado ao seu lado em cada passo da sua jornada. Filha, você merece tudo o que há de melhor nessa vida! Espero que saiba o quanto me orgulho de você. Saiba que sua felicidade é o que há de mais importante para nós! Te amamos! Deus te abênçõe! Papai e Mamãe.</item>
+        <item>Ulisses Gabriel você é um presente que a vida nos dá como uma benção de Deus. Ulisses Gabriel você é o fruto de nossa existência e um prêmio entregue pelo destino de Deus para mim e seu pai. Como um espelho, neles enxergamos a nós mesmos e é por isso que estamos sempre prontos para dá-los tudo que podemos e sempre lutar pela sua felicidade. Meu filho amado, nunca se esqueça que estarei sempre ao seu lado para te amar incondicionalmente, tanto eu como seu pai. Nós simplesmente te amamos muito!</item>
+        <item>Filha, que a rica graça do amor de Cristo Jesus permaneça para sempre contigo! Agradeço sempre a Deus por este presente tão especial que Ele me concedeu para eu cuidar, ensinar e instruir no caminho do Senhor e também para aprender com você, sim! Como tenho aprendido com você, minha companheira, minha filha, minha amiga. Te amoooo muitoooo.Confie no SENHOR de todo o coração e não se apóie na sua própria inteligência. Lembre de Deus em tudo o que fizer, e ele lhe mostrará o caminho certo. Não fique pensando que você é sábio; tema o SENHOR e não faça nada que seja errado. Provérbios 3:5-7.</item>
+    </string-array>
+</resources>
